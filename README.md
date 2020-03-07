@@ -32,8 +32,3 @@ As final considerations:
 * See [Starter Workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for a reference on expected format. (Note: For this example, you are not required to match the tables or data frames included. Your only goal is to build the scatter plots and bar graphs. Consider the tables to be potential clues, but feel free to approach this problem, however, you like.)
 
 
-Pymaceuticals Observable Trends
-*Of the four drugs being compared, Capomulin was the only drug to see a decrease in tumor volume over the 45 day period. Infubinol, Ketapril, and the placebo all saw increases in tumor volume over the same time period.
-*Capomulin saw the lowest increase in metastatic cancer sites over the 45 day treatment cycle compared to Infubinol, Ketapril, and the placebo, which saw larger increases. 
-*Capomulin also exhibited the highest survival rate for the mice studied over the course of the 45 days.
-
