@@ -16,6 +16,7 @@ To do this you are tasked with:
 ![PLOT 1](Images/treatment.png)
 
 * Creating a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+
 ![PLOT 2](Images/spread.png)
 
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate).
