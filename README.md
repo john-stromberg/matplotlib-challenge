@@ -33,7 +33,7 @@ As final considerations:
 
 
 Pymaceuticals Observable Trends
-Of the four drugs being compared, Capomulin was the only drug to see a decrease in tumor volume over the 45 day period. Infubinol, Ketapril, and the placebo all saw increases in tumor volume over the same time period.
-Capomulin saw the lowest increase in metastatic cancer sites over the 45 day treatment cycle compared to Infubinol, Ketapril, and the placebo, which saw larger increases. 
-Capomulin also exhibited the highest survival rate for the mice studied over the course of the 45 days.
+*Of the four drugs being compared, Capomulin was the only drug to see a decrease in tumor volume over the 45 day period. Infubinol, Ketapril, and the placebo all saw increases in tumor volume over the same time period.
+*Capomulin saw the lowest increase in metastatic cancer sites over the 45 day treatment cycle compared to Infubinol, Ketapril, and the placebo, which saw larger increases. 
+*Capomulin also exhibited the highest survival rate for the mice studied over the course of the 45 days.
 
