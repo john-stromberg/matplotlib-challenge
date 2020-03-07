@@ -19,7 +19,7 @@ To do this you are tasked with:
 ![PLOT 2](Images/spread.png)
 
 * Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
-![PLOT 3}(Images/survival.png)
+![PLOT 3](Images/survival.png)
 
 * Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 ![PLOT 4](Images/change.png)
