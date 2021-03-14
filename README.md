@@ -28,11 +28,10 @@ The analysis was completed by creating the following plots:
 Final considerations:
 
 * The analysis was completed using the Pandas Library and the Jupyter Notebook as well as the Matplotlib library.
-* You must include a written description of three observable trends based on the data.
 * The scatter plots include error bars to allow the company to account for variability between mice. 
 * The bar graph indicates tumor growth as red and tumor reduction as green. It also includes a label with the percentage change for each bar.
 
-* Three observations about the results of the study are as follows using the visualizations generated from the study data as the basis for the observations: 
+* Three observable trends about the results of the study are as follows utilizing the visualizations generated from the study data as the basis for the observations: 
 
 * 1. Of the four drugs being compared, Capomulin was the only drug to see a decrease in tumor volume over the 45 day period. Infubinol, Ketapril, and the placebo all saw increases in tumor over the same time period.
 * 2. Capomulin saw the lowest increase in metastatic cancer sites over the 45 day treatment cycle compared to Infubinol, Ketapril, and the placebo, which saw larger increases.
